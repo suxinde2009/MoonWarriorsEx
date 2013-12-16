@@ -12,7 +12,7 @@
 
 ![image4](https://raw.github.com/suxinde2009/MoonWarriorsEx/master/snapshot04.PNG)
 
-![image5](https://raw.github.com/suxinde2009/MoonWarriorsEx/master/snapshot05.png)
+![image5](https://raw.github.com/suxinde2009/MoonWarriorsEx/master/snapshot05.PNG)
 
 #License
 
