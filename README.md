@@ -4,15 +4,15 @@
 本人对该程序代码保留最终解释权。 
 
 #Screenshot
-![image1](https://raw.github.com/suxinde2009/MoonWarriorsEx/master/snapshot01.jpg)
+![image1](https://raw.github.com/suxinde2009/MoonWarriorsEx/master/snapshot01.png)
 
-![image2](https://raw.github.com/suxinde2009/MoonWarriorsEx/master/snapshot02.jpg)
+![image2](https://raw.github.com/suxinde2009/MoonWarriorsEx/master/snapshot02.png)
 
-![image3](https://raw.github.com/suxinde2009/MoonWarriorsEx/master/snapshot03.jpg)
+![image3](https://raw.github.com/suxinde2009/MoonWarriorsEx/master/snapshot03.png)
 
-![image4](https://raw.github.com/suxinde2009/MoonWarriorsEx/master/snapshot04.jpg)
+![image4](https://raw.github.com/suxinde2009/MoonWarriorsEx/master/snapshot04.png)
 
-![image5](https://raw.github.com/suxinde2009/MoonWarriorsEx/master/snapshot05.jpg)
+![image5](https://raw.github.com/suxinde2009/MoonWarriorsEx/master/snapshot05.png)
 
 #License
 
