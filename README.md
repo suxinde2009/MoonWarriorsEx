@@ -1,7 +1,7 @@
 #MoonWarriorsEx
 根据cocos2d-html5版的MoonWarrios的游戏逻辑，使用Cocos2d-x重写，
 所有资源素材均来源于cocos2d-html5的MoonWarriors，版权归原作者所有。
-本人对该程序代码保留最终解释权。 
+代码仅供学习交流使用，本人对该程序代码保留最终解释权。 
 
 #Screenshot
 ![image1](https://raw.github.com/suxinde2009/MoonWarriorsEx/master/snapshot01.PNG)
