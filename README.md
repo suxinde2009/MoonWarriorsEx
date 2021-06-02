@@ -1,9 +1,10 @@
-#MoonWarriorsEx
+# MoonWarriorsEx
 根据cocos2d-html5版的MoonWarrios的游戏逻辑，使用Cocos2d-x重写，
 所有资源素材均来源于cocos2d-html5的MoonWarriors，版权归原作者所有。
 代码仅供学习交流使用，本人对该程序代码保留最终解释权。 
 
-#Screenshot
+# Screenshot
+
 ![image1](https://raw.github.com/suxinde2009/MoonWarriorsEx/master/snapshot01.PNG)
 
 ![image2](https://raw.github.com/suxinde2009/MoonWarriorsEx/master/snapshot02.PNG)
@@ -14,11 +15,11 @@
 
 ![image5](https://raw.github.com/suxinde2009/MoonWarriorsEx/master/snapshot05.PNG)
 
-#License
+# License
 
 The MIT License (MIT)
 
-Copyright (c) 2013 SuXinDe (Email: suxinde2009@126.com)
+Copyright (c) 2011-2021 SuXinDe (Email: suxinde2009@126.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
